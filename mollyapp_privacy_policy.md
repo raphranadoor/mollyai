@@ -1,11 +1,10 @@
-# Privacy Policy for MollyApp
-
+# Privacy Policy for Molly AI
 **Effective Date:** August 17, 2025  
 **Last Updated:** August 17, 2025
 
 ## Introduction
 
-This Privacy Policy describes how MollyApp ("we," "our," or "us") collects, uses, and shares information when you use our mobile application (the "App"). MollyApp is an AI-powered nutrition assistant that helps users analyze food and receive personalized dietary guidance.
+This Privacy Policy describes how Molly AI ("we," "our," or "us") collects, uses, and shares information when you use our mobile application (the "App"). MollyApp is an AI-powered nutrition assistant that helps users analyze food and receive personalized dietary guidance.
 
 ## Information We Collect
 
@@ -98,7 +97,7 @@ MollyApp is not intended for children under 13 years of age. We do not knowingly
 
 ## International Users
 
-If you are using MollyApp from outside [Your Country], please note that your information may be transferred to and processed in [Your Country] where our servers are located.
+If you are using MollyApp from outside Deutschland, please note that your information may be transferred to and processed in Deutschland where our servers are located.
 
 ## Changes to This Privacy Policy
 
